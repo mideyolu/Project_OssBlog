@@ -12,7 +12,7 @@ app = FastAPI(
     version="1.0.0",
     description="Fetch trending GitHub projects based on license and other parameters. This API allows users to search for repositories that are licensed under specific types and have a certain number of stars.",
     license_info={
-         "name": "GNU General Public License (GPL)",  # License changed to GPL
+         "name": "GNU General Public License (GPL)",  # License GPL
         "url": "https://www.gnu.org/licenses/gpl-3.0.html",  # URL for GPL license
     }
 
